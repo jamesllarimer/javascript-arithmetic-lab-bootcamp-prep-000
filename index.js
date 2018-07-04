@@ -1,15 +1,25 @@
 function add (a,b){
-  return 
+  return a + b;
 }
 function subtract (a,b){
-  return 
+  return a - b;
 }
 function multiply (a,b){
-  return 
+  return a * b;
 }
 function divide (a,b){
-  return 
+  return a / b;
 }
-function inc (a,b){
-  return 
+function inc (n){
+  return n++;
+}
+function dec (n){
+  return n--;
+}
+function makeINt (n){
+  return parseInt(a, 10)
+}
+
+function preserveDecimal (n){
+  return parseFloat(a)
 }
